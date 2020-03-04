@@ -4,7 +4,7 @@
 
 ![screenshot](img/screenshot.png)
 
-This project has this characteristics:
+The project has these characteristics:
   - Create objects using factory functions.
   - Use modules to prevent functions from being global.
 
@@ -46,8 +46,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Final Project of the Rails Section from the [Microverse Curriculum] (https://www.microverse.org/)
-- We follow the instructions of [The Odin Project](https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript)
+- Final Project of the Rails Section from the [Microverse Curriculum](https://www.microverse.org/)
+- We followed the instructions of [The Odin Project](https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript)
 
 ## 📝 License
 
